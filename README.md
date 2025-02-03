@@ -35,5 +35,11 @@ Clone the repository:
 git clone https://github.com/alirzx/Cifar10-Image-Generation-Using-GANs
 ```
 
+## Results
+Upon successful training, the model will generate images that closely resemble the CIFAR-10 dataset. The quality of generated images will improve over time, showcasing the capability of GANs in learning complex data distributions.
 
 ![Generated Image at epoch 99](https://github.com/alirzx/Cifar10-Image-Generation-Using-GANs/blob/main/generated_images/epoch_99.png?raw=true)
+
+## Acknowledgments
+The CIFAR-10 dataset is provided by the Canadian Institute for Advanced Research (CIFAR).
+This project utilizes PyTorch for building and training deep learning models.
