@@ -30,7 +30,10 @@ To run this project, ensure you have Python installed along with the necessary l
 pip install torch torchvision numpy
 ```
 
-
+Clone the repository:
+```bash
+git clone https://github.com/alirzx/Cifar10-Image-Generation-Using-GANs
+```
 
 
 ![Generated Image at epoch 99](https://github.com/alirzx/Cifar10-Image-Generation-Using-GANs/blob/main/generated_images/epoch_99.png?raw=true)
