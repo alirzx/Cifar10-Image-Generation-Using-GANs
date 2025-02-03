@@ -8,4 +8,4 @@
 
 
 
-![Generated Image at Epoch 50](https://github.com/alirzx/MNIST-Generation-Using-GAN/blob/main/outputs/gan_generated_epoch_50.png?raw=true)
+![Generated Image at epoch 99](https://github.com/alirzx/Cifar10-Image-Generation-Using-GANs/blob/main/generated_images/epoch_99.png?raw=true)
